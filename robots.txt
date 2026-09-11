@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jyskeinvesthedge.net/sitemap.xml
